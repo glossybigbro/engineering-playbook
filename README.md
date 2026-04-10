@@ -24,9 +24,9 @@
 
 ## Standalone Extractions (Open-Source Tools)
 
-사내 코어 시스템을 구축하는 과정에서 파생된 인프라적 고통(Pain-points)을 범용적으로 해결하기 위해 외부로 추출한 독립 도구 모음입니다.
+사내 코어 시스템을 구축하는 과정에서 파생된 인프라적 고통(Pain-points)을 범용적으로 해결하기 위해 **외부로 추출 준비 중**인 독립 도구 모음입니다.
 
-| Tool Name | Scope | Description |
-|:---|:---|:---|
-| `modern-agp9-template` | Build Script | 스마트 캐스팅 기반의 무중단 멀티모듈 빌드 자동화 스니펫 |
-| `zero-touch-paparazzi` | KSP / QA | 보일러플레이트 없는 Compose 단위 컴포넌트 자동 캡처 엔진 |
+| Tool Name | Scope | Status | Description |
+|:---|:---|:---:|:---|
+| `modern-agp9-template` | Build Script | ⏳ _WIP_ | 스마트 캐스팅 기반의 무중단 멀티모듈 빌드 템플릿 (추출 준비중) |
+| `zero-touch-paparazzi` | KSP / QA | ⏳ _WIP_ | 보일러플레이트 없는 Compose 단위 컴포넌트 자동 캡처 엔진 (개발중) |
